@@ -1,0 +1,50 @@
+body{
+  background-color: #D7DFE1;
+}
+#nav-bar {
+  position: fixed;
+  top: 0;
+  width: 101%;
+  background-color: #292929;
+  margin-left: -10px;
+}
+#nav-bar a{
+  float: right;
+  background-color: #494949;
+  padding: 14px 16px;
+  font-family: Bitter;
+  text-decoration: none;
+  color: white;
+}
+img{
+  height: 40px;
+  width: 40px;
+}
+#header-img {
+
+}
+#nav-bar a:hover {
+  background-color: #696969;
+}
+#form {
+  text-align: center;
+  border-radius: 25%;
+}
+#email{
+  border-radius: 5%;
+  font-family: Source Sans Pro;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+#submit {
+  background-color: #B4DDE2;
+  margin-top: 10px;
+}
+iframe {
+  text-align: center;
+}
+h1 {
+  font-family: Source Sans Pro;
+  text-align: center;
+  padding-top: 35px;
+}
